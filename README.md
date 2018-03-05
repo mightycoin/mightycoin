@@ -56,4 +56,4 @@ labeled 'stale'.
 
 LINKS
 
-Official Explorer(http://explorer.mightycoin.info/)
+Official Explorer(http://explorer.mightycoinwallet.com/)
