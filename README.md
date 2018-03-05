@@ -1,7 +1,6 @@
-
 MightyCoin development tree
 
-MightyCoin is a PoS-based cryptocurrency.
+MightyCoin is a Scrypt PoW/PoS Based cryptocurrency.
 
 Development process
 ===========================
