@@ -1,0 +1,9 @@
+Building MightyCoin
+
+See doc/readme-qt.rst for instructions on building MightyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MightyCoin.
+
+See doc/build-*.txt for instructions on building mightycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MightyCoin.
