@@ -2,6 +2,29 @@ MightyCoin development tree
 
 MightyCoin is a Scrypt PoW/PoS Based cryptocurrency.
 
+An Node Based Wallet
+
+- Send and Receive Funds, Create new addresses, View Transactions, Edit your account, and more!
+- Authentication is included as well as QR Codes for addresses
+
+Specifications
+
+- Block Reward: 100 Coins
+- Total Coin Supply: 42000000 Coins
+- Transaction Confirmations: 3 Block
+- PoS Percentage: 4% Per Year
+- Confirmations: 10 blocks
+
+Technology
+
+- Hybrid PoW/PoS 
+- Encrypted Messaging
+- Multi-Signature Transcactions
+- Swift Block Per Second
+- Comprising Triology Algorithm
+- PoW/PoS Hybrid
+- Fully Decentralized
+
 The Overall process - We have worked for 
 ===========================
 
@@ -29,3 +52,8 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+
+
+LINKS
+
+Official Explorer(http://explorer.mightycoin.info/)
